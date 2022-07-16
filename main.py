@@ -25,7 +25,7 @@ logging.basicConfig(
 logging.info("Start of program.")
 
 parser = argparse.ArgumentParser(
-    description='Download memory from Rigol DS1054Z oscilloscopes.' +
+    description='Download memory from Rigol DS1054Z oscilloscopes. ' +
     'Currently only supports download of all memory into CSV format.'
 )
 

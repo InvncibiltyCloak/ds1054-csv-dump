@@ -14,7 +14,7 @@ Then just call main.py with the ip address and optionally a filename for the dat
 ```
 usage: main.py [-h] [-u] oscilloscope_ip [filename]
 
-Download memory from Rigol DS1054Z oscilloscopes.Currently only supports download of all memory into CSV format.
+Download memory from Rigol DS1054Z oscilloscopes. Currently only supports download of all memory into CSV format.
 
 positional arguments:
   oscilloscope_ip    IP address of oscilloscope to download data from
